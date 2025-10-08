@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Apeksha Ranjan</h1>
+<h1 align="center">Hi! I'm Apeksha Ranjan 👋</h1>
 
 <p align="center">
   <img height="auto" src="https://media.giphy.com/media/8QbwUh40Hl96yMgvOx/giphy.gif" />
@@ -22,37 +22,23 @@
 
 <h1 align="center">My Socials</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/apeksharanjan23/" target="_blank">
-    <img height="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="margin:0 15px;" />
-  </a>
-  <a href="https://github.com/ApekshaRanjan1" target="_blank">
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin:0 15px;" />
-  </a>
-  <a href="https://www.instagram.com/apeksharanjan" target="_blank">
-    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" style="margin:0 15px;" />
-  </a>
-  <a href="https://www.twitter.com/yourusername" target="_blank">
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="margin:0 15px;" />
-  </a>
+  <code><a href="https://www.linkedin.com/in/apeksharanjan23/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"></a></code>
+  <code><a href="https://www.instagram.com/apeksharanjan" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram"></a></code>
 </p>
 
-
-
-<h2> 🚀 &nbsp;Tools & Technologies</h2>
-<p align="left">
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="45" height="45"/></a>
-  <a href="https://react.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>
-  <a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></a>
-  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45"/></a>
-  <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45"/></a>
+<h2 align="center">🚀 &nbsp;Tech Stack</h2>
+<p align="center">
+  <code><img height="25" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="25" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+  <code><img height="25" alt="c" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+  <code><img height="25" alt="sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+  <code><img height="25" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <code><img height="25" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img height="25" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+  <code><img height="25" alt="tailwind" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 </p>
 
-<h1 align="center">
-  GitHub Stats 📈
-</h1>
+<h1 align="center">GitHub Stats 📈</h1>
 <p align="center">
   <img width="600" src="https://github-readme-stats.vercel.app/api?username=ApekshaRanjan1&show_icons=true&theme=neon" />
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApekshaRanjan1&layout=compact&theme=neon" />
@@ -61,4 +47,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-snake-output/output/github-snake-dark.svg" />
 </p>
-
