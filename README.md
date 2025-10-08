@@ -7,7 +7,7 @@
 <h3 align="center">Exploring AI, ML & Web Development 🚀</h3>
 
 <h2> 👩🏻‍💻 &nbsp;About Me</h2>
-<p>I'm Apeksha, currently in my 5th semester of BTech, passionate about building ML projects, automating workflows, and developing seamless web interfaces.</p>
+<p>I'm Apeksha, currently in my 7th semester of BTech, passionate about building ML projects, automating workflows, and developing seamless web interfaces.</p>
 
 - 🌱 I’m currently learning **Data Visualization, OCI, and Web3 Basics**  
 - 🔭 Working on **OCR-based KYC Automation & AI Generated Resume Builder Project**  
@@ -20,18 +20,23 @@
 - 💻 Full Stack Web Development  
 - 📊 Data Analytics & Visualization  
 
-<h1 align="center">My Socials 🙆</h1>
+<h1 align="center">My Socials</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/apeksharanjan23/">
-    <img height="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
+  <a href="https://www.linkedin.com/in/apeksharanjan23/" target="_blank">
+    <img height="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="margin:0 15px;" />
   </a>
-  <a href="https://github.com/ApekshaRanjan1">
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <a href="https://github.com/ApekshaRanjan1" target="_blank">
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin:0 15px;" />
   </a>
-  <a href="https://www.instagram.com/apeksharanjan">
-    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/>
+  <a href="https://www.instagram.com/apeksharanjan" target="_blank">
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" style="margin:0 15px;" />
+  </a>
+  <a href="https://www.twitter.com/yourusername" target="_blank">
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="margin:0 15px;" />
   </a>
 </p>
+
+
 
 <h2> 🚀 &nbsp;Tools & Technologies</h2>
 <p align="left">
@@ -49,10 +54,11 @@
   GitHub Stats 📈
 </h1>
 <p align="center">
-  <img width="600" src="https://github-readme-stats.vercel.app/api?username=ApekshaRanjan1&show_icons=true&theme=vision-friendly-dark" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApekshaRanjan1&layout=compact&theme=vision-friendly-dark" />
+  <img width="600" src="https://github-readme-stats.vercel.app/api?username=ApekshaRanjan1&show_icons=true&theme=neon" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApekshaRanjan1&layout=compact&theme=neon" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-snake-output/output/github-snake-dark.svg" />
 </p>
+
