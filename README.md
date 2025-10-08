@@ -25,10 +25,10 @@
   <a href="https://www.linkedin.com/in/apeksha-ranjan/">
     <img height="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
   </a>
-  <a href="https://github.com/apeksha-ranjan">
+  <a href="www.linkedin.com/in/apeksharanjan23">
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   </a>
-  <a href="https://www.instagram.com/">
+  <a href="[https://www.instagram.com/](https://www.instagram.com/apeksharanjan)">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/>
   </a>
 </p>
