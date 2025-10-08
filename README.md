@@ -22,7 +22,7 @@
 
 <h1 align="center">My Socials 🙆</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/apeksha-ranjan/">
+  <a href="https://www.linkedin.com/in/apeksharanjan23/">
     <img height="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
   </a>
   <a href="https://github.com/ApekshaRanjan1">
