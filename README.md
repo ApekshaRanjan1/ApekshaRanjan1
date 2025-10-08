@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Apeksha Ranjan </h1>
 <p align="center">
-  <img height="100" src="https://raw.githubusercontent.com/ApekshaRanjan1/ApekshaRanjan1/main/images/I Love You Flower GIF.gif" />
+  <img height="1500" src="https://raw.githubusercontent.com/ApekshaRanjan1/ApekshaRanjan1/main/images/I Love You Flower GIF.gif" />
 </p>
 
 <p align="center">
