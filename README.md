@@ -10,9 +10,9 @@
 <p>I'm Apeksha, currently in my 5th semester of BTech, passionate about building ML projects, automating workflows, and developing seamless web interfaces.</p>
 
 - 🌱 I’m currently learning **Data Visualization, OCI, and Web3 Basics**  
-- 🔭 Working on **OCR-based KYC Automation & Resume Builder Project**  
+- 🔭 Working on **OCR-based KYC Automation & AI Generated Resume Builder Project**  
 - 💬 Ask me about **Python, Flask, React, OCR, and SQL**  
-- 📫 Reach me at **apeks.ranjan@gmail.com**  
+- 📫 Reach me at **apeksha.ranjan23@gmail.com**  
 - ⚡ Fun fact: **I love turning messy data into neat, actionable insights**  
 
 <h3>Fields of Interest</h3>
