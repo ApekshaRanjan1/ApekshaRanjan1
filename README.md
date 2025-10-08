@@ -49,8 +49,8 @@
   GitHub Stats 📈
 </h1>
 <p align="center">
-  <img width="600" src="https://github-readme-stats.vercel.app/api?username=apeksha-ranjan&show_icons=true&theme=vision-friendly-dark" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apeksha-ranjan&layout=compact&theme=vision-friendly-dark" />
+  <img width="600" src="https://github-readme-stats.vercel.app/api?username=ApekshaRanjan1&show_icons=true&theme=vision-friendly-dark" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApekshaRanjan1&layout=compact&theme=vision-friendly-dark" />
 </p>
 
 <p align="center">
