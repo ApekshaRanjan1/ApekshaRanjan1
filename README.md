@@ -36,7 +36,7 @@
 
 <h1 align="center">GitHub Stats 📈</h1>
 <p align="center">
-  <img width="600" src="https://github-readme-stats.vercel.app/api?username=ApekshaRanjan1&show_icons=true&theme=neon&rank_icon=github" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApekshaRanjan1&layout=compact&theme=neon" />
+  <img width="530" src="https://github-readme-stats.vercel.app/api?username=ApekshaRanjan1&show_icons=true&theme=neon&rank_icon=github" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApekshaRanjan1&layout=compact&theme=neon" />
 </p>
 
