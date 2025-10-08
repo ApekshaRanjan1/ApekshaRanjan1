@@ -1,10 +1,8 @@
-<h1 align="center">Hi! I'm Apeksha Ranjan 👋</h1>
+<h1 align="center">Hi! I'm Apeksha Ranjan </h1>
 
 <p align="center">
   <img height="auto" src="https://media.giphy.com/media/8QbwUh40Hl96yMgvOx/giphy.gif" />
 </p>
-
-<h3 align="center">Exploring AI, ML & Web Development 🚀</h3>
 
 <h2> 👩🏻‍💻 &nbsp;About Me</h2>
 <p>I'm Apeksha, currently in my 7th semester of BTech, passionate about building ML projects, automating workflows, and developing seamless web interfaces.</p>
