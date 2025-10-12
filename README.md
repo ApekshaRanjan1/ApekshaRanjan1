@@ -1,10 +1,6 @@
 <h1 align="center">Hi! I'm Apeksha Ranjan </h1>
 <p align="center">
-  <img height="1000" src="https://raw.githubusercontent.com/ApekshaRanjan1/ApekshaRanjan1/main/images/I Love You Flower GIF.gif" />
-</p>
-
-<p align="center">
-  <img height="auto" src="https://media.giphy.com/media/8QbwUh40Hl96yMgvOx/giphy.gif" />
+  <img height="300" src="https://raw.githubusercontent.com/ApekshaRanjan1/ApekshaRanjan1/main/images/I Love You Flower GIF.gif" />
 </p>
 
 <h2 align="left"> 👩🏻‍💻About Me</h2>
